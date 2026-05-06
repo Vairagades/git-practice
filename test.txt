@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is feature1 change
 This is feature2 change
+=======
+This is feature1 change 
+>>>>>>> 9c76976 (Feature1 change)

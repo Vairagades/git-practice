@@ -1,1 +1,2 @@
-This is my first Git file 
+This is feature1 change
+This is feature2 change
